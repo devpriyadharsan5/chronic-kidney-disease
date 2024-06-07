@@ -64,10 +64,6 @@ The model provides a classification of patients into CKD and non-CKD categories 
 ### Recommendations:
 1. Incorporate regular screening for high-risk patients.
 2. Utilize the model to assist healthcare professionals in diagnosis and treatment planning.
-
-## Future Work
-
-1. Train the model on a larger and more diverse dataset for better generalization.
 2. Explore other advanced classification techniques.
 3. Implement model deployment for real-time CKD prediction in healthcare settings.
 
